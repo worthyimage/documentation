@@ -9,7 +9,7 @@ taxonomy:
 1. **Textbox**  
 2. **Textarea**
 3. **List**: This field type will generate a dropdown (single or multiple select). To make it become multiple select, please set **Multiple** property to **Yes**
-4. **Chekboxes**
+4. **Checkboxes**
 5. **Radio**
 6. **Date**: Display a calendar allows selecting a date
 7. **Heading**: Display **title of the field** as a header on subscription form
